@@ -139,9 +139,13 @@ Content published on the Web.
 
 ### Blogs
 
+- [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
+
 ## Tools
   
 ### Libraries
+
+- [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization). Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 
 ### Frameworks
 
