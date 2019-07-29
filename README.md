@@ -68,6 +68,7 @@ An awesome style list that curates the best machine learning model compression a
 - [Loss-aware Binarization of Deep Networks](https://arxiv.org/abs/1611.01600)
 - [Quantize weights and activations in Recurrent Neural Networks](https://arxiv.org/abs/1611.10176)
 - [Fixed-Point Performance Analysis of Recurrent Neural Networks](https://arxiv.org/abs/1512.01322)
+- [And the bit goes down: Revisiting the quantization of neural networks](https://arxiv.org/abs/1907.05686)
 
 ### Binarization
 
@@ -140,6 +141,7 @@ Content published on the Web.
 ### Blogs
 
 - [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
+- [Compressing neural networks for image classification and detection](https://ai.facebook.com/blog/compressing-neural-networks-for-image-classification-and-detection/) - Facebook AI researchers have developed a new method for reducing the memory footprint of neural networks by quantizing their weights, while maintaining a short inference time. They manage to get a 76.1% top-1 ResNet-50 that fits in 5 MB and also compress a Mask R-CNN within 6 MB.
 
 ## Tools
   
@@ -148,6 +150,10 @@ Content published on the Web.
 - [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization). Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 
 ### Frameworks
+
+### Paper Implementations
+
+- [facebookresearch/kill-the-bits](https://github.com/facebookresearch/kill-the-bits) - code and compressed models for the paper, "And the bit goes down: Revisiting the quantization of neural networks" by Facebook AI Research.
 
 ## Videos
 
