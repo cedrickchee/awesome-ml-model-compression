@@ -148,6 +148,7 @@ Content published on the Web.
 ### Libraries
 
 - [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization). Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
+- [XNNPACK](https://github.com/google/xnnpack) is a highly optimized library of floating-point neural network inference operators for ARM, WebAssembly, and x86 (SSE2 level) platforms. It's a based on QNNPACK library. However, unlike QNNPACK, XNNPACK focuses entirely on floating-point operators.
 
 ### Frameworks
 
