@@ -135,6 +135,7 @@ Content published on the Web.
 
 - [Why the Future of Machine Learning is Tiny](https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/)
 - [Deep Learning Model Compression for Image Analysis: Methods and Architectures](https://medium.com/comet-app/deep-learning-model-compression-for-image-analysis-methods-and-architectures-398f82b0c06f)
+- [A foolproof way to shrink deep learning models](https://news.mit.edu/2020/foolproof-way-shrink-deep-learning-models-0430) by MIT (Alex Renda et al.) - A pruning algorithm: train to completion, globally prune the 20% of weights with the lowest magnitudes (the weakest connections), retrain with **learning rate rewinding** for the original (early training) rate, iteratively repeat until the desired sparsity is reached (model is as tiny as you want).
 
 ### Reference
 
