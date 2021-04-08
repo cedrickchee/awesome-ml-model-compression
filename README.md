@@ -144,6 +144,8 @@ Content published on the Web.
 - [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 - [Compressing neural networks for image classification and detection](https://ai.facebook.com/blog/compressing-neural-networks-for-image-classification-and-detection/) - Facebook AI researchers have developed a new method for reducing the memory footprint of neural networks by quantizing their weights, while maintaining a short inference time. They manage to get a 76.1% top-1 ResNet-50 that fits in 5 MB and also compress a Mask R-CNN within 6 MB.
 - [All The Ways You Can Compress BERT](http://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html) - An overview of different compression methods for large NLP models (BERT) based on different characteristics and compares their results.
+- [Deep Learning Model Compression](https://rachitsingh.com/deep-learning-model-compression/) methods.
+- [Do We Really Need Model Compression](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html) in the future?
 
 ## Tools
   
