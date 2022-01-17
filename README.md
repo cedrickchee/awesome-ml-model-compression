@@ -70,6 +70,7 @@ An awesome style list that curates the best machine learning model compression a
 - [Quantize weights and activations in Recurrent Neural Networks](https://arxiv.org/abs/1611.10176)
 - [Fixed-Point Performance Analysis of Recurrent Neural Networks](https://arxiv.org/abs/1512.01322)
 - [And the bit goes down: Revisiting the quantization of neural networks](https://arxiv.org/abs/1907.05686)
+- [8-bit Optimizers via Block-wise Quantization](https://arxiv.org/abs/2110.02861)
 
 ### Binarization
 
@@ -154,6 +155,7 @@ Content published on the Web.
 
 - [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization). Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 - [XNNPACK](https://github.com/google/xnnpack) is a highly optimized library of floating-point neural network inference operators for ARM, WebAssembly, and x86 (SSE2 level) platforms. It's a based on QNNPACK library. However, unlike QNNPACK, XNNPACK focuses entirely on floating-point operators.
+- [Bitsandbytes](https://github.com/facebookresearch/bitsandbytes) is a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers and quantization functions.
 
 ### Frameworks
 
