@@ -156,6 +156,7 @@ Content published on the Web.
 - [TensorFlow Model Optimization Toolkit](https://github.com/tensorflow/model-optimization). Accompanied blog post, [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 - [XNNPACK](https://github.com/google/xnnpack) is a highly optimized library of floating-point neural network inference operators for ARM, WebAssembly, and x86 (SSE2 level) platforms. It's a based on QNNPACK library. However, unlike QNNPACK, XNNPACK focuses entirely on floating-point operators.
 - [Bitsandbytes](https://github.com/facebookresearch/bitsandbytes) is a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers and quantization functions.
+- [NNCP](https://bellard.org/nncp/) - An experiment to build a practical lossless data compressor with neural networks. The latest version uses a Transformer model (slower but best ratio). LSTM (faster) is also available.
 
 ### Frameworks
 
