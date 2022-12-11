@@ -149,6 +149,8 @@ Content published on the Web.
 - [All The Ways You Can Compress BERT](http://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html) - An overview of different compression methods for large NLP models (BERT) based on different characteristics and compares their results.
 - [Deep Learning Model Compression](https://rachitsingh.com/deep-learning-model-compression/) methods.
 - [Do We Really Need Model Compression](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html) in the future?
+- Quantization: [Breakdown of Nvidia H100s for Transformer Inferencing](https://carolchen.me/blog/h100-inferencing/) by Carol Chen, ML ops at Cohere.
+  > Transformer Engine utilizes FP8 and FP16 together to reduce memory usage and increase performance while still maintaining accuracy for large language models.
 
 ## Tools
   
