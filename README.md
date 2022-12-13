@@ -125,6 +125,7 @@ An awesome style list that curates the best machine learning model compression a
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/abs/1404.0736)
 - [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798)
 - [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229)
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685 ) - Low-rank adapters were proposed for GPT-like models by Hu et al.
 
 ## Articles
 
