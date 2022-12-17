@@ -72,7 +72,11 @@ An awesome style list that curates the best machine learning model compression a
 - [And the bit goes down: Revisiting the quantization of neural networks](https://arxiv.org/abs/1907.05686)
 - [8-bit Optimizers via Block-wise Quantization](https://arxiv.org/abs/2110.02861)
 - [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339) [[blog post](https://huggingface.co/blog/hf-bitsandbytes-integration)]
-- [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438) [[code](https://github.com/mit-han-lab/smoothquant)]
+- [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438) by MIT and NVIDIA (2022) [[code](https://github.com/mit-han-lab/smoothquant)]
+- [ZeroQuant: Efficient and Affordable Post-training Quantization for Large Transformer-based Models](https://arxiv.org/abs/2206.01861) by Microsoft (2022) [[code](https://github.com/microsoft/DeepSpeed)]
+- [nuQmm: Quantized MatMul for Efficient Inference of Large-Scale Generative Language Models](https://arxiv.org/abs/2206.09557) by NAVER CLOVA and Pohang University of Science and Technology, Korea (2022)
+- [MKQ-BERT: Quantized BERT with 4-bits Weights and Activations](https://arxiv.org/abs/2203.13483) by Tencent AIPD (2022)
+- [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://arxiv.org/abs/2109.12948) by Qualcomm AI Research (2021) [[code](https://github.com/qualcomm-ai-research/transformer-quantization)]
 
 ### Binarization
 
