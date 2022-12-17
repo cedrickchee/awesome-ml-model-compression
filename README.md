@@ -77,6 +77,7 @@ An awesome style list that curates the best machine learning model compression a
 - [nuQmm: Quantized MatMul for Efficient Inference of Large-Scale Generative Language Models](https://arxiv.org/abs/2206.09557) by NAVER CLOVA and Pohang University of Science and Technology, Korea (2022)
 - [MKQ-BERT: Quantized BERT with 4-bits Weights and Activations](https://arxiv.org/abs/2203.13483) by Tencent AIPD (2022)
 - [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://arxiv.org/abs/2109.12948) by Qualcomm AI Research (2021) [[code](https://github.com/qualcomm-ai-research/transformer-quantization)]
+- [Mesa: A Memory-saving **Training** Framework for Transformers](https://arxiv.org/abs/2111.11124v1) by Monash University (2021)
 
 ### Binarization
 
