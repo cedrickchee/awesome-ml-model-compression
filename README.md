@@ -180,6 +180,13 @@ Content published on the Web.
 
 ### Training & tutorials
 
+## License
+
+I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer.
+
+* Code: [MIT](LICENSE) license. Copyright 2022- Cedric Chee
+* Text content: [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
