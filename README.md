@@ -72,6 +72,7 @@ An awesome style list that curates the best machine learning model compression a
 - [And the bit goes down: Revisiting the quantization of neural networks](https://arxiv.org/abs/1907.05686)
 - [8-bit Optimizers via Block-wise Quantization](https://arxiv.org/abs/2110.02861)
 - [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339) [[blog post](https://huggingface.co/blog/hf-bitsandbytes-integration)]
+- [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438) [[code](https://github.com/mit-han-lab/smoothquant)]
 
 ### Binarization
 
