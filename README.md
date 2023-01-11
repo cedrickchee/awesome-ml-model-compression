@@ -141,7 +141,7 @@ An awesome style list that curates the best machine learning model compression a
 
 Compression methods for model acceleration (i.e., model parallelism) papers:
 
-- [Does compressing activations help model parallel training? (2023)](https://arxiv.org/abs/2301.02654) - They presents the first empirical study on the effectiveness of compression algorithms (pruning-based, learning-based, and quantization-based - using a Transformer architecture) to improve the communication speed of model parallelism.
+- [Does compressing activations help model parallel training? (2023)](https://arxiv.org/abs/2301.02654) - They presents the first empirical study on the effectiveness of compression algorithms (pruning-based, learning-based, and quantization-based - using a Transformer architecture) to improve the communication speed of model parallelism. **Summary:** 1) activation compression not equal to gradient compression; 2) training setups matter a lot; 3) don't compress early layers' activation.
 
 ## Articles
 
