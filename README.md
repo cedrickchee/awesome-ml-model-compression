@@ -12,6 +12,7 @@ An awesome style list that curates the best machine learning model compression a
   - [Pruning](#pruning)
   - [Distillation](#distillation)
   - [Low Rank Approximation](#low-rank-approximation)
+  - [Parallelism](#parallelism)
 - [Articles](#articles)
   - [Howtos](#howtos)
   - [Assorted](#assorted)
@@ -135,6 +136,12 @@ An awesome style list that curates the best machine learning model compression a
 - [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798)
 - [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229)
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685 ) - Low-rank adapters were proposed for GPT-like models by Hu et al.
+
+### Parallelism
+
+Compression methods for model acceleration (i.e., model parallelism) papers:
+
+- [Does compressing activations help model parallel training? (2023)](https://arxiv.org/abs/2301.02654) - They presents the first empirical study on the effectiveness of compression algorithms (pruning-based, learning-based, and quantization-based - using a Transformer architecture) to improve the communication speed of model parallelism.
 
 ## Articles
 
