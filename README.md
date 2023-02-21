@@ -150,7 +150,7 @@ Content published on the Web.
 ### Howtos
 
 - [How to Quantize Neural Networks with TensorFlow](https://petewarden.com/2016/05/03/how-to-quantize-neural-networks-with-tensorflow/)
-- [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware (2023)](https://huggingface.co/blog/peft) - The HugingFace PEFT library enables using the most popular and performant models from Transformers coupled with the simplicity and scalability of Accelerate. Currently supported PEFT methods: LoRA, prefix tuning, prompt tuning, and P-Tuning (which employs trainable continuous prompt embeddings). They'll be exploring more PEFT methods, such as (IA)3 and bottleneck adapters. Results: The number of parameters needed to fine-tune Flan-T5-XXL is now 9.4M, about 7X fewer than AlexNet (source: [Tweet](https://twitter.com/dmvaldman/status/1624143468003221504)).
+- [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware (2023)](https://huggingface.co/blog/peft) - The Hugging Face PEFT library enables using the most popular and performant models from Transformers coupled with the simplicity and scalability of Accelerate. Currently supported PEFT methods: LoRA, prefix tuning, prompt tuning, and P-Tuning (which employs trainable continuous prompt embeddings). They'll be exploring more PEFT methods, such as (IA)3 and bottleneck adapters. Results: The number of parameters needed to fine-tune Flan-T5-XXL is now 9.4M, about 7X fewer than AlexNet (source: [Tweet](https://twitter.com/dmvaldman/status/1624143468003221504)).
 
 ### Assorted
 
