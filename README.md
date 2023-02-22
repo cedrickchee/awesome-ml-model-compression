@@ -12,6 +12,7 @@ An awesome style list that curates the best machine learning model compression a
   - [Pruning](#pruning)
   - [Distillation](#distillation)
   - [Low Rank Approximation](#low-rank-approximation)
+  - [Offloading](#offloading)
   - [Parallelism](#parallelism)
 - [Articles](#articles)
   - [Howtos](#howtos)
@@ -136,6 +137,14 @@ An awesome style list that curates the best machine learning model compression a
 - [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798)
 - [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229)
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685 ) - Low-rank adapters were proposed for GPT-like models by Hu et al.
+
+### Offloading
+
+Recent years have witnessed the emergence of systems that are specialized for LLM inference, such as FasterTransformer (NVIDIA, 2022), PaLM inference (Pope et al., 2022), Deepspeed-Inference (Aminabadi et al., 2022), Accelerate (HuggingFace, 2022), LightSeq (Wang et al., 2021), TurboTransformers (Fang et al., 2021).
+
+To enable LLM inference on easily accessible hardware, offloading is an essential technique — to our knowledge, among current systems, only Deepspeed-Inference and Huggingface Accelerate include such functionality.
+
+- [FlexGen: High-throughput Generative Inference of Large Language Models with a Single GPU](https://raw.githubusercontent.com/FMInference/FlexGen/main/docs/paper.pdf) by HazyResearch@Stanford et al., 2023. [[Tweet]](https://archive.is/2bqSy)
 
 ### Parallelism
 
