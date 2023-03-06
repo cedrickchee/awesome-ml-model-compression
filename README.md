@@ -81,6 +81,7 @@ An awesome style list that curates the best machine learning model compression a
 - [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://arxiv.org/abs/2109.12948) by Qualcomm AI Research (2021) [[code](https://github.com/qualcomm-ai-research/transformer-quantization)]
 - [Mesa: A Memory-saving **Training** Framework for Transformers](https://arxiv.org/abs/2111.11124v1) by Monash University (2021)
 - [The case for 4-bit precision: k-bit Inference Scaling Laws](https://arxiv.org/abs/2212.09720) by Tim Dettmers et al. (2022) - Overall, their findings show that **4-bit precision is almost universally optimal for total model bits and zero-shot accuracy**.
+- [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323) by Elias Frantar et al., 2022.
 
 ### Binarization
 
