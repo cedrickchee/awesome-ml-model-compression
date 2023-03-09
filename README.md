@@ -36,6 +36,7 @@ An awesome style list that curates the best machine learning model compression a
 - [Model compression as constrained optimization, with application to neural nets. Part I: general framework](https://arxiv.org/abs/1707.01209)
 - [Model compression as constrained optimization, with application to neural nets. Part II: quantization](https://arxiv.org/abs/1707.04319)
 - [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962)
+- [FP8 Formats for Deep Learning](https://arxiv.org/abs/2209.05433) by NVIDIA, Arm, and Intel, 2022 - FP8 delivered the performance of INT8 with accuracy of FP16. E4M3, a variant of FP8 has the benefits of INT8 with none of the loss in accuracy and throughput.
 
 ### Architecture
 
