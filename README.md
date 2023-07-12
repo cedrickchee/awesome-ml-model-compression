@@ -141,6 +141,7 @@ An awesome style list that curates the best machine learning model compression a
 - [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/abs/1505.06798)
 - [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/abs/1411.4229)
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685 ) - Low-rank adapters were proposed for GPT-like models by Hu et al.
+- [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) by Tim Dettmers et al. (2023)
 
 ### Offloading
 
