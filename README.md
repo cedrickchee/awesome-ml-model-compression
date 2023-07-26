@@ -113,6 +113,7 @@ An awesome style list that curates the best machine learning model compression a
 - [ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA](https://arxiv.org/abs/1612.00694)
 - [Massive Language Models Can Be Accurately Pruned in One-Shot (2023)](https://arxiv.org/abs/2301.00774) - Pruning methods: post-training, layer-wise. Quantization methods: joint sparsification & post-training quantization.
     > They propose `SparseGPT`, the first accurate one-shot pruning method which works efficiently at the scale of models with 10-100 billion parameters. `SparseGPT` works by reducing the pruning problem to an extremely large-scale instance of sparse regression. It is based on a new approximate sparse regression solver, used to solve a layer-wise compression problem, which is efficient enough to execute in a few hours on the largest openly-available GPT models (175B parameters), using a single GPU. At the same time, SparseGPT is accurate enough to drop negligible accuracy post-pruning, without any fine-tuning.
+- [UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers](https://arxiv.org/abs/2301.13741) [[Code](https://github.com/sdc17/UPop)]
 
 ### Distillation
 
