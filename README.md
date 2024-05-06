@@ -184,6 +184,7 @@ Content published on the Web.
 - [Do We Really Need Model Compression](http://mitchgordon.me/machine/learning/2020/01/13/do-we-really-need-model-compression.html) in the future?
 - Quantization: [Breakdown of Nvidia H100s for Transformer Inferencing](https://carolchen.me/blog/h100-inferencing/) by Carol Chen, ML ops at Cohere.
   > Transformer Engine utilizes FP8 and FP16 together to reduce memory usage and increase performance while still maintaining accuracy for large language models.
+- [Comparison between quantization techniques and formats for LLMs](https://oobabooga.github.io/blog/posts/gptq-awq-exl2-llamacpp/)  (Oct 2023)- A detailed comparison between GGUF (llama.cpp), GPTQ, AWQ, EXL2, q4_K_M, q4_K_S, and load_in_4bit: perplexity, VRAM, speed, model size, and loading time.
 
 ## Tools
   
