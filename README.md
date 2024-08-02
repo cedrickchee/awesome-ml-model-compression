@@ -178,6 +178,7 @@ Content published on the Web.
 
 ### Blogs
 
+- [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) - Demystifying the Compression of Large Language Models by Maarten Grootendorst (Jul 2024) - An approachable and great primer into quantization and widely supported quantization methods in tools and libraries including GPTQ, GGUF, and BitNet (1-bit).
 - [TensorFlow Model Optimization Toolkit — Pruning API](https://medium.com/tensorflow/tensorflow-model-optimization-toolkit-pruning-api-42cac9157a6a?linkId=67380711)
 - [Compressing neural networks for image classification and detection](https://ai.facebook.com/blog/compressing-neural-networks-for-image-classification-and-detection/) - Facebook AI researchers have developed a new method for reducing the memory footprint of neural networks by quantizing their weights, while maintaining a short inference time. They manage to get a 76.1% top-1 ResNet-50 that fits in 5 MB and also compress a Mask R-CNN within 6 MB.
 - [All The Ways You Can Compress BERT](http://mitchgordon.me/machine/learning/2019/11/18/all-the-ways-to-compress-BERT.html) - An overview of different compression methods for large NLP models (BERT) based on different characteristics and compares their results.
