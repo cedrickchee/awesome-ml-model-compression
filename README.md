@@ -212,6 +212,11 @@ Content published on the Web.
 
 ### Training & tutorials
 
+- [ICML'21 Tutorial : Sparsity in Deep Learning: Pruning and growth for efficient inference and training](https://icml.cc/virtual/2021/tutorial/10845) - Organized by Torsten Hoefler, Dan Alistarh
+
+### Courses
+- [MIT 6.5940 TinyML and Efficient Deep Learning Computing](https://efficientml.ai) - Course by Song Han, MIT
+
 ## License
 
 I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer.
