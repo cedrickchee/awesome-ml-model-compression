@@ -58,6 +58,7 @@ An awesome style list that curates the best machine learning model compression a
 - [DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://openreview.net/pdf?id=HyoST_9xl)
 - [Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/abs/1703.09746v3)
 - [Deep Networks with Stochastic Depth](https://arxiv.org/abs/1603.09382)
+- [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms)
 
 ### Quantization
 
