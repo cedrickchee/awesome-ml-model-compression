@@ -61,6 +61,9 @@ An awesome style list that curates the best machine learning model compression a
 
 ### Quantization
 
+- [OneComp: One-Line Revolution for Generative AI Model Compression](https://arxiv.org/abs/2603.28845) — Fujitsu Research, 2026. A unified PTQ pipeline for LLMs. [[Code](https://github.com/FujitsuResearch/OneCompression)]
+- [Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization](https://openreview.net/forum?id=a3l3K9khbL) — NeurIPS 2025.
+
 - [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/abs/1512.06473)
 - [Towards the Limit of Network Quantization](https://arxiv.org/abs/1612.01543)
 - [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://arxiv.org/abs/1609.07061)
