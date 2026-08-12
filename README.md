@@ -206,6 +206,10 @@ Content published on the Web.
 
 - [facebookresearch/kill-the-bits](https://github.com/facebookresearch/kill-the-bits) - code and compressed models for the paper, "And the bit goes down: Revisiting the quantization of neural networks" by Facebook AI Research.
 
+### Benchmarks and evidence packs
+
+- [Bonfyre FPQ Qwen 0.5B benchmark evidence](https://github.com/Nickgonzales76017/bonfyre-fpq-benchmark) - Checksummed receipts and rerun instructions for a narrow 3-bit Qwen2.5-0.5B comparison covering perplexity and tensor cosine, with an open HQQ comparator and explicit limitations.
+
 ## Videos
 
 ### Talks
