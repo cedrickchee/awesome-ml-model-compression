@@ -36,6 +36,7 @@ An awesome style list that curates the best machine learning model compression a
 - [Model compression as constrained optimization, with application to neural nets. Part I: general framework](https://arxiv.org/abs/1707.01209)
 - [Model compression as constrained optimization, with application to neural nets. Part II: quantization](https://arxiv.org/abs/1707.04319)
 - [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962)
+- [Memory-Efficient FastText: A Comprehensive Approach Using Double-Array Trie Structures and Mark-Compact Memory Management](https://arxiv.org/abs/2506.01254)
 - [FP8 Formats for Deep Learning](https://arxiv.org/abs/2209.05433) by NVIDIA, Arm, and Intel, 2022 - FP8 delivered the performance of INT8 with accuracy of FP16. E4M3, a variant of FP8 has the benefits of INT8 with none of the loss in accuracy and throughput.
 
 ### Architecture
@@ -199,6 +200,7 @@ Content published on the Web.
 - [XNNPACK](https://github.com/google/xnnpack) is a highly optimized library of floating-point neural network inference operators for ARM, WebAssembly, and x86 (SSE2 level) platforms. It's a based on QNNPACK library. However, unlike QNNPACK, XNNPACK focuses entirely on floating-point operators.
 - [Bitsandbytes](https://github.com/facebookresearch/bitsandbytes) is a lightweight wrapper around CUDA custom functions, in particular 8-bit optimizers and quantization functions.
 - [NNCP](https://bellard.org/nncp/) - An experiment to build a practical lossless data compressor with neural networks. The latest version uses a Transformer model (slower but best ratio). LSTM (faster) is also available.
+- [me_fasttext](https://github.com/initial-d/me_fasttext) - FastText-derived C++ prototype that compresses exact subword embeddings into a compact mmap serving artifact.
 
 ### Frameworks
 
