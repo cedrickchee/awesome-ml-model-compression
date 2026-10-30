@@ -74,6 +74,7 @@ An awesome style list that curates the best machine learning model compression a
 - [Fixed-Point Performance Analysis of Recurrent Neural Networks](https://arxiv.org/abs/1512.01322)
 - [And the bit goes down: Revisiting the quantization of neural networks](https://arxiv.org/abs/1907.05686)
 - [8-bit Optimizers via Block-wise Quantization](https://arxiv.org/abs/2110.02861)
+- [Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization](https://arxiv.org/abs/2610.31309) (2026) - Shares quantized token codes across layers and layer decoders across tokens; at ~100× per-layer embedding compression, BF16 Gemma 4 E4B retains 97.8% aggregate performance across seven tasks. [[code](https://github.com/VILA-Lab/optic)]
 - [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339) [[blog post](https://huggingface.co/blog/hf-bitsandbytes-integration)]
 - [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438) by MIT and NVIDIA (2022) [[code](https://github.com/mit-han-lab/smoothquant)]
 - [ZeroQuant: Efficient and Affordable Post-training Quantization for Large Transformer-based Models](https://arxiv.org/abs/2206.01861) by Microsoft (2022) [[code](https://github.com/microsoft/DeepSpeed)]
